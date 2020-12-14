@@ -1,0 +1,23 @@
+{
+    "menu": [
+        {
+          "url": "/scrap-image",
+          "name": "InstagramScraping",
+          "slug": "scrap-image",
+          "icon": "feather icon-instagram"
+        },
+        {
+          "url": "",
+          "navheader": "adminPanel",
+          "icon": "",
+          "permission": "permission.admin"
+        },
+        {
+          "url": "/users",
+          "name": "user.title",
+          "slug": "users",
+          "permission": "permission.admin",
+          "icon": "feather icon-user"
+        }
+    ]
+}
