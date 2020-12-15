@@ -1,1 +1,1 @@
-# laravel-instagram-scraping-post-generator
+# laravel-instagram-scraper
